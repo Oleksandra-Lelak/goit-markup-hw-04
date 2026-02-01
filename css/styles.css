@@ -258,8 +258,6 @@ img {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-
-  border: 1px solid #000;
 }
 .hero-title {
   max-width: 496px;
@@ -348,7 +346,6 @@ img {
   flex-direction: column;
   border-radius: 0 0 4px 4px;
   width: 264px;
-  height: 428px;
   box-shadow:
     0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16),
@@ -468,13 +465,11 @@ img {
 }
 .footer-container {
   width: 264px;
-  height: 112px;
   display: block;
   padding: 0;
 }
 .footer-text {
   width: 264px;
-  height: 72px;
   padding-top: 16px;
 }
 .footer-page-container {
